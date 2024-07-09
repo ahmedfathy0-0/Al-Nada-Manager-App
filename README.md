@@ -1,1 +1,0 @@
-# Al-Nada-Manager-App
