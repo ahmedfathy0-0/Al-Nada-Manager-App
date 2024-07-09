@@ -1,0 +1,25 @@
+D:\Ahmed Fathy\Al Nada Manager Software\Al-Nada-Manager-App\Al-Nada Manager\bin\Debug\net8.0-windows\Al-Nada Manager.exe
+D:\Ahmed Fathy\Al Nada Manager Software\Al-Nada-Manager-App\Al-Nada Manager\bin\Debug\net8.0-windows\Al-Nada Manager.deps.json
+D:\Ahmed Fathy\Al Nada Manager Software\Al-Nada-Manager-App\Al-Nada Manager\bin\Debug\net8.0-windows\Al-Nada Manager.runtimeconfig.json
+D:\Ahmed Fathy\Al Nada Manager Software\Al-Nada-Manager-App\Al-Nada Manager\bin\Debug\net8.0-windows\Al-Nada Manager.dll
+D:\Ahmed Fathy\Al Nada Manager Software\Al-Nada-Manager-App\Al-Nada Manager\bin\Debug\net8.0-windows\Al-Nada Manager.pdb
+D:\Ahmed Fathy\Al Nada Manager Software\Al-Nada-Manager-App\Al-Nada Manager\obj\Debug\net8.0-windows\Al_Nada_Manager.AF.resources
+D:\Ahmed Fathy\Al Nada Manager Software\Al-Nada-Manager-App\Al-Nada Manager\obj\Debug\net8.0-windows\Al_Nada_Manager.Properties.Resources.resources
+D:\Ahmed Fathy\Al Nada Manager Software\Al-Nada-Manager-App\Al-Nada Manager\obj\Debug\net8.0-windows\Al-Nada Manager.csproj.GenerateResource.cache
+D:\Ahmed Fathy\Al Nada Manager Software\Al-Nada-Manager-App\Al-Nada Manager\obj\Debug\net8.0-windows\Al-Nada Manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmed Fathy\Al Nada Manager Software\Al-Nada-Manager-App\Al-Nada Manager\obj\Debug\net8.0-windows\Al-Nada Manager.AssemblyInfoInputs.cache
+D:\Ahmed Fathy\Al Nada Manager Software\Al-Nada-Manager-App\Al-Nada Manager\obj\Debug\net8.0-windows\Al-Nada Manager.AssemblyInfo.cs
+D:\Ahmed Fathy\Al Nada Manager Software\Al-Nada-Manager-App\Al-Nada Manager\obj\Debug\net8.0-windows\Al-Nada Manager.csproj.CoreCompileInputs.cache
+D:\Ahmed Fathy\Al Nada Manager Software\Al-Nada-Manager-App\Al-Nada Manager\obj\Debug\net8.0-windows\Al-Nada Manager.sourcelink.json
+D:\Ahmed Fathy\Al Nada Manager Software\Al-Nada-Manager-App\Al-Nada Manager\obj\Debug\net8.0-windows\Al-Nada Manager.dll
+D:\Ahmed Fathy\Al Nada Manager Software\Al-Nada-Manager-App\Al-Nada Manager\obj\Debug\net8.0-windows\refint\Al-Nada Manager.dll
+D:\Ahmed Fathy\Al Nada Manager Software\Al-Nada-Manager-App\Al-Nada Manager\obj\Debug\net8.0-windows\Al-Nada Manager.pdb
+D:\Ahmed Fathy\Al Nada Manager Software\Al-Nada-Manager-App\Al-Nada Manager\obj\Debug\net8.0-windows\Al-Nada Manager.genruntimeconfig.cache
+D:\Ahmed Fathy\Al Nada Manager Software\Al-Nada-Manager-App\Al-Nada Manager\obj\Debug\net8.0-windows\ref\Al-Nada Manager.dll
+D:\Ahmed Fathy\Al Nada Manager Software\Al-Nada-Manager-App\Al-Nada Manager\obj\Debug\net8.0-windows\Al_Nada_Manager.LoginAF.resources
+D:\Ahmed Fathy\Al Nada Manager Software\Al-Nada-Manager-App\Al-Nada Manager\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\Ahmed Fathy\Al Nada Manager Software\Al-Nada-Manager-App\Al-Nada Manager\bin\Debug\net8.0-windows\System.Management.dll
+D:\Ahmed Fathy\Al Nada Manager Software\Al-Nada-Manager-App\Al-Nada Manager\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\Ahmed Fathy\Al Nada Manager Software\Al-Nada-Manager-App\Al-Nada Manager\obj\Debug\net8.0-windows\Al-Nada Manager.csproj.AssemblyReference.cache
+D:\Ahmed Fathy\Al Nada Manager Software\Al-Nada-Manager-App\Al-Nada Manager\obj\Debug\net8.0-windows\Al_Nada_Manager.MainAF.resources
+D:\Ahmed Fathy\Al Nada Manager Software\Al-Nada-Manager-App\Al-Nada Manager\obj\Debug\net8.0-windows\Al-Nada .DA4BC8D6.Up2Date
