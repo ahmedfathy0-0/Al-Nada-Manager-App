@@ -1,0 +1,25 @@
+C:\Users\ahmed\OneDrive\Desktop\My projects\Al-Nada-Manager-App\Al-Nada Manager App\Al-Nada Manager App\bin\Debug\net6.0-windows\Al-Nada Manager App.exe
+C:\Users\ahmed\OneDrive\Desktop\My projects\Al-Nada-Manager-App\Al-Nada Manager App\Al-Nada Manager App\bin\Debug\net6.0-windows\Al-Nada Manager App.deps.json
+C:\Users\ahmed\OneDrive\Desktop\My projects\Al-Nada-Manager-App\Al-Nada Manager App\Al-Nada Manager App\bin\Debug\net6.0-windows\Al-Nada Manager App.runtimeconfig.json
+C:\Users\ahmed\OneDrive\Desktop\My projects\Al-Nada-Manager-App\Al-Nada Manager App\Al-Nada Manager App\bin\Debug\net6.0-windows\Al-Nada Manager App.dll
+C:\Users\ahmed\OneDrive\Desktop\My projects\Al-Nada-Manager-App\Al-Nada Manager App\Al-Nada Manager App\bin\Debug\net6.0-windows\Al-Nada Manager App.pdb
+C:\Users\ahmed\OneDrive\Desktop\My projects\Al-Nada-Manager-App\Al-Nada Manager App\Al-Nada Manager App\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\ahmed\OneDrive\Desktop\My projects\Al-Nada-Manager-App\Al-Nada Manager App\Al-Nada Manager App\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\ahmed\OneDrive\Desktop\My projects\Al-Nada-Manager-App\Al-Nada Manager App\Al-Nada Manager App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\ahmed\OneDrive\Desktop\My projects\Al-Nada-Manager-App\Al-Nada Manager App\Al-Nada Manager App\obj\Debug\net6.0-windows\Al-Nada Manager App.csproj.AssemblyReference.cache
+C:\Users\ahmed\OneDrive\Desktop\My projects\Al-Nada-Manager-App\Al-Nada Manager App\Al-Nada Manager App\obj\Debug\net6.0-windows\Al_Nada_Manager_App..resources
+C:\Users\ahmed\OneDrive\Desktop\My projects\Al-Nada-Manager-App\Al-Nada Manager App\Al-Nada Manager App\obj\Debug\net6.0-windows\Al_Nada_Manager_App.AF.resources
+C:\Users\ahmed\OneDrive\Desktop\My projects\Al-Nada-Manager-App\Al-Nada Manager App\Al-Nada Manager App\obj\Debug\net6.0-windows\Al_Nada_Manager_App.LoginAF.resources
+C:\Users\ahmed\OneDrive\Desktop\My projects\Al-Nada-Manager-App\Al-Nada Manager App\Al-Nada Manager App\obj\Debug\net6.0-windows\Al_Nada_Manager_App.MainAF.resources
+C:\Users\ahmed\OneDrive\Desktop\My projects\Al-Nada-Manager-App\Al-Nada Manager App\Al-Nada Manager App\obj\Debug\net6.0-windows\Al-Nada Manager App.csproj.GenerateResource.cache
+C:\Users\ahmed\OneDrive\Desktop\My projects\Al-Nada-Manager-App\Al-Nada Manager App\Al-Nada Manager App\obj\Debug\net6.0-windows\Al-Nada Manager App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\OneDrive\Desktop\My projects\Al-Nada-Manager-App\Al-Nada Manager App\Al-Nada Manager App\obj\Debug\net6.0-windows\Al-Nada Manager App.AssemblyInfoInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\My projects\Al-Nada-Manager-App\Al-Nada Manager App\Al-Nada Manager App\obj\Debug\net6.0-windows\Al-Nada Manager App.AssemblyInfo.cs
+C:\Users\ahmed\OneDrive\Desktop\My projects\Al-Nada-Manager-App\Al-Nada Manager App\Al-Nada Manager App\obj\Debug\net6.0-windows\Al-Nada Manager App.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\My projects\Al-Nada-Manager-App\Al-Nada Manager App\Al-Nada Manager App\obj\Debug\net6.0-windows\Al-Nada Manager App.sourcelink.json
+C:\Users\ahmed\OneDrive\Desktop\My projects\Al-Nada-Manager-App\Al-Nada Manager App\Al-Nada Manager App\obj\Debug\net6.0-windows\Al-Nada .3AF99674.Up2Date
+C:\Users\ahmed\OneDrive\Desktop\My projects\Al-Nada-Manager-App\Al-Nada Manager App\Al-Nada Manager App\obj\Debug\net6.0-windows\Al-Nada Manager App.dll
+C:\Users\ahmed\OneDrive\Desktop\My projects\Al-Nada-Manager-App\Al-Nada Manager App\Al-Nada Manager App\obj\Debug\net6.0-windows\refint\Al-Nada Manager App.dll
+C:\Users\ahmed\OneDrive\Desktop\My projects\Al-Nada-Manager-App\Al-Nada Manager App\Al-Nada Manager App\obj\Debug\net6.0-windows\Al-Nada Manager App.pdb
+C:\Users\ahmed\OneDrive\Desktop\My projects\Al-Nada-Manager-App\Al-Nada Manager App\Al-Nada Manager App\obj\Debug\net6.0-windows\Al-Nada Manager App.genruntimeconfig.cache
+C:\Users\ahmed\OneDrive\Desktop\My projects\Al-Nada-Manager-App\Al-Nada Manager App\Al-Nada Manager App\obj\Debug\net6.0-windows\ref\Al-Nada Manager App.dll

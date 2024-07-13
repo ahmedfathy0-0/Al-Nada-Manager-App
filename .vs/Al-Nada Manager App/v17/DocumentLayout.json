@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed\\OneDrive\\Desktop\\My projects\\Al-Nada-Manager-App\\Al-Nada Manager App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E562A28-B4D8-477F-95DE-D97957F5D47C}|Al-Nada Manager App\\Al-Nada Manager App.csproj|c:\\users\\ahmed\\onedrive\\desktop\\my projects\\al-nada-manager-app\\al-nada manager app\\al-nada manager app\\mainaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E562A28-B4D8-477F-95DE-D97957F5D47C}|Al-Nada Manager App\\Al-Nada Manager App.csproj|solutionrelative:al-nada manager app\\mainaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E562A28-B4D8-477F-95DE-D97957F5D47C}|Al-Nada Manager App\\Al-Nada Manager App.csproj|c:\\users\\ahmed\\onedrive\\desktop\\my projects\\al-nada-manager-app\\al-nada manager app\\al-nada manager app\\mainaf.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E562A28-B4D8-477F-95DE-D97957F5D47C}|Al-Nada Manager App\\Al-Nada Manager App.csproj|solutionrelative:al-nada manager app\\mainaf.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E562A28-B4D8-477F-95DE-D97957F5D47C}|Al-Nada Manager App\\Al-Nada Manager App.csproj|c:\\users\\ahmed\\onedrive\\desktop\\my projects\\al-nada-manager-app\\al-nada manager app\\al-nada manager app\\mainaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E562A28-B4D8-477F-95DE-D97957F5D47C}|Al-Nada Manager App\\Al-Nada Manager App.csproj|solutionrelative:al-nada manager app\\mainaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainAF.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\My projects\\Al-Nada-Manager-App\\Al-Nada Manager App\\Al-Nada Manager App\\MainAF.cs",
+              "RelativeDocumentMoniker": "Al-Nada Manager App\\MainAF.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\My projects\\Al-Nada-Manager-App\\Al-Nada Manager App\\Al-Nada Manager App\\MainAF.cs [Design]",
+              "RelativeToolTip": "Al-Nada Manager App\\MainAF.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T10:35:54.669Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainAF.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\My projects\\Al-Nada-Manager-App\\Al-Nada Manager App\\Al-Nada Manager App\\MainAF.Designer.cs",
+              "RelativeDocumentMoniker": "Al-Nada Manager App\\MainAF.Designer.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\My projects\\Al-Nada-Manager-App\\Al-Nada Manager App\\Al-Nada Manager App\\MainAF.Designer.cs",
+              "RelativeToolTip": "Al-Nada Manager App\\MainAF.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T10:34:25.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainAF.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\My projects\\Al-Nada-Manager-App\\Al-Nada Manager App\\Al-Nada Manager App\\MainAF.cs",
+              "RelativeDocumentMoniker": "Al-Nada Manager App\\MainAF.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\My projects\\Al-Nada-Manager-App\\Al-Nada Manager App\\Al-Nada Manager App\\MainAF.cs",
+              "RelativeToolTip": "Al-Nada Manager App\\MainAF.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T10:24:58.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
