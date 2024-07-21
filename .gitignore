@@ -1,0 +1,40 @@
+# .NET Build Folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Build results
+*.dll
+*.exe
+*.pdb
+*.cache
+*.csproj.user
+*.suo
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Rider IDE files
+.idea/
+
+# VS Code files
+.vscode/
+.vs/
+
+# Dotnet tool cache
+.dotnet/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
